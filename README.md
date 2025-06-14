@@ -27,3 +27,13 @@ This end-to-end project involved data cleaning, data modeling, DAX calculations,
 + Drill-down capabilities for detailed insights.
 
 ## 🛠 Tools & Technologies Used
+
+**Power BI** - Data visualization and dashboarding
+
+**DAX (Data Analysis Expressions)**- Calculated columns and measures
+
+**Power Query Editor** - Data cleaning and transformation
+
+**Data Modeling** - Relationship b/w tables and schema design
+
+**Excel** - Initial data preparation and validation
