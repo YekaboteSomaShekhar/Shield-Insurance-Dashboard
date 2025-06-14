@@ -41,3 +41,5 @@ This end-to-end project involved data cleaning, data modeling, DAX calculations,
 ## 🔗 Live Dashboard link
 
 https://app.powerbi.com/view?r=eyJrIjoiNTU3MzA3NDctODc4NS00ZDFmLTgzNTAtZmEyN2FmY2M3MzUxIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9
+
+Feel free to explore the dashboard and reach out to me on [LinkedIn] (https://www.linkedin.com/in/soma-shekhar-y-60b13424a/) for feedback or collaboration.
