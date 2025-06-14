@@ -38,6 +38,6 @@ This end-to-end project involved data cleaning, data modeling, DAX calculations,
 
 **Excel** - Initial data preparation and validation
 
-## Live Dashboard link
+## 🔗 Live Dashboard link
 
 https://app.powerbi.com/view?r=eyJrIjoiNTU3MzA3NDctODc4NS00ZDFmLTgzNTAtZmEyN2FmY2M3MzUxIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9
