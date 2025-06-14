@@ -2,7 +2,7 @@
 
 This project analyzes key business metrics for an insurance company using Power BI.
 
-## Project Overview
+## 🔎 Project Overview
 
 In this project, I built a comprehensive Power BI dashboard for Shield Insurance to analyze and visualize key business metrics. The dashboard helps track revenue, customer growth, sales modes, and age group segmentation, providing valuable insights for business decision-making.
 
