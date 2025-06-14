@@ -26,4 +26,4 @@ This end-to-end project involved data cleaning, data modeling, DAX calculations,
 
 + Drill-down capabilities for detailed insights.
 
-## Tools & Technologies Used
+## 🛠 Tools & Technologies Used
