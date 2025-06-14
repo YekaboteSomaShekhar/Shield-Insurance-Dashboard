@@ -25,3 +25,9 @@ This end-to-end project involved data cleaning, data modeling, DAX calculations,
 + Clean, user-friendly design for easy business decision-making.
 
 + Drill-down capabilities for detailed insights.
+
+## Dashboard Screenshots
+
+Home Page
+
+![Screenshot 2025-06-14 123559](https://github.com/user-attachments/assets/c196539b-775d-4620-b571-0c8292181fb8)
