@@ -8,7 +8,7 @@ In this project, I built a comprehensive Power BI dashboard for Shield Insurance
 
 This end-to-end project involved data cleaning, data modeling, DAX calculations, and creating interactive reports to simplify complex insurance data into actionable insights.
 
-## 📚 What I Learned
+## 📚 Key Metrics
 
 + Developed an Interactive Power BI dashboard for Shield Insurance business analysis.
 
